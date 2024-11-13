@@ -41,7 +41,6 @@ int main(){
 
 	string word;
 
-
 	if (!file_read.is_open()) {
 		return 1;
 	}
