@@ -1,2 +1,0 @@
-C:/Users/Opsik/source/repos/ConsoleApplication2/build/CMakeFiles/edit_cache.dir
-C:/Users/Opsik/source/repos/ConsoleApplication2/build/CMakeFiles/rebuild_cache.dir
